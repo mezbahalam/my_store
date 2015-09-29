@@ -29,6 +29,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ##### Final Step
  *terminal*
  `$ cd my_store `
+ 
  `$ rails s `
  
 ##### open a browser window and navigate to `http://localhost:3000 `
