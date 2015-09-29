@@ -26,13 +26,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
  
  `$ spree install my_store`
  
- ##### Final Step
-  *terminal*
+##### Final Step
+ *terminal*
  
  `$ rails s `
  
- ##### open a browser window and navigate to http://localhost:3000 
- ##### For admin panel  navigate to http://localhost:3000/admin
+##### open a browser window and navigate to http://localhost:3000 
+##### For admin panel  navigate to http://localhost:3000/admin
  
  You can login with the default username `spree@example.com` and password `spree123`
  
